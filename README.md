@@ -1,6 +1,6 @@
 # KitKatShot
 
-**Convert Your HTML Element Into A Beautiful Image**
+**Convert Your HTML Element Into A Image**
 ### Demo: 
 
 ![Demo GIF](https://i.ibb.co/ByJKBvw/demo.gif)
