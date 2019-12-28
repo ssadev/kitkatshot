@@ -1,4 +1,5 @@
 # KitKatShot
+![icon](https://github.com/programworld999/kitkatshot/blob/master/kitkatshotapp/static/favicon.ico)
 
 **Convert Your HTML Element Into A Image**
 ### Demo: 
