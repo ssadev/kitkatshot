@@ -1,0 +1,24 @@
+
+<!doctype html>
+<html lang="en">
+  {% extends "public/base.html" %}
+  {% block content %}
+
+
+    <div class="container">
+      <div class="jumbotron mt-3">
+        <h1>HTML To Image</h1>
+        <p class="lead">Convert Your HTML Element Into A Beautiful Image(JPEG)</p>
+        <form action="action/" method="POST">{%csrf_token%}
+          <div class="form-group">
+            <label for="exampleTextarea">Insert Your HTML Code</label>
+            <textarea class="form-control" id="exampleTextarea" rows="3" spellcheck="false" name="code" required ></textarea>
+          </div>
+          <button type="submit" class="btn btn-primary" id="CodeSubmitBtn">Submit »</button>
+        </form>
+      </div>
+    </div>
+    {% endblock %}
+
+  </body>
+</html>

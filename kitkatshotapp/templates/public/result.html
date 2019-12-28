@@ -1,0 +1,24 @@
+
+<!doctype html>
+<html lang="en">
+  {% extends "public/base.html" %}
+  {% block content %}
+
+
+    <div class="container">
+      <div class="jumbotron mt-3">
+            <div class="card center">
+                    <img class="card-img-top" src="{{image}}" alt="Card image cap">
+                    <div class="card-body">
+                      <h5 class="card-title">Thank you for using kitkatshot</h5>
+                      <p class="card-text"> <a href="/">Try Another</a></p>
+                      <a href="{{image}}" class="btn btn-primary" download>Download <i class="fa fa-download" aria-hidden="true"></i></a>
+                    </div>
+            </div>
+      </div>
+    </div>
+
+   
+    {% endblock %}
+  </body>
+</html>

@@ -1,0 +1,1 @@
+web: gunicorn kitkatshot.wsgi --log-file -
