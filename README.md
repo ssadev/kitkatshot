@@ -1,7 +1,11 @@
 # KitKatShot
 
 **Convert Your HTML Element Into A Beautiful Image**
-### Demo: [kitkatshot](https://bit.ly/2suaMXs)
+### Demo: 
+
+![Image description](https://i.ibb.co/ByJKBvw/demo.gif)
+
+[kitkatshot](https://bit.ly/2suaMXs)
 
 ## Installation
 KitKatShot requires Python 3, pip 9.0.1 dependency or packages :
