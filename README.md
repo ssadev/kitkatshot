@@ -3,7 +3,9 @@
 **Convert Your HTML Element Into A Beautiful Image**
 ### Demo: 
 
-![Image description](https://i.ibb.co/ByJKBvw/demo.gif)
+![Demo GIF](https://i.ibb.co/ByJKBvw/demo.gif)
+#### Image Downloaded:
+![Output Image](https://github.com/programworld999/kitkatshot/blob/master/kitkatshotapp/static/output.png)
 
 [kitkatshot](https://bit.ly/2suaMXs)
 
